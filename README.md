@@ -27,11 +27,11 @@ Lista de tecnogolías usadas en el proyecto:
 * [Time]
 ***
 ##### Instalación:
-* [Python]: https://www.python.org/downloads/
-* [Visual Studio Code]: https://code.visualstudio.com/
-* [Tweepy]: https://docs.tweepy.org/en/stable/install.html
-* [PySide2]: https://pypi.org/project/PySide2/
-* [Dash]: https://dash.plotly.com/installation
+* '[Python]: https://www.python.org/downloads/'
+* '[Visual Studio Code]: https://code.visualstudio.com/'
+* '[Tweepy]: https://docs.tweepy.org/en/stable/install.html'
+* '[PySide2]: https://pypi.org/project/PySide2/'
+* '[Dash]: https://dash.plotly.com/installation'
 ***
 ###### Requerimientos del ordenador:
 ***
